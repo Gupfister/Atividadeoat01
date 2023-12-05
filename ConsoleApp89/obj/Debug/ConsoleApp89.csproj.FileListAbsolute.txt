@@ -1,0 +1,7 @@
+C:\Users\MEC Psicologia\source\repos\ConsoleApp89\ConsoleApp89\obj\Debug\ConsoleApp89.csproj.AssemblyReference.cache
+C:\Users\MEC Psicologia\source\repos\ConsoleApp89\ConsoleApp89\obj\Debug\ConsoleApp89.csproj.CoreCompileInputs.cache
+C:\Users\MEC Psicologia\source\repos\ConsoleApp89\ConsoleApp89\bin\Debug\ConsoleApp89.exe.config
+C:\Users\MEC Psicologia\source\repos\ConsoleApp89\ConsoleApp89\bin\Debug\ConsoleApp89.exe
+C:\Users\MEC Psicologia\source\repos\ConsoleApp89\ConsoleApp89\bin\Debug\ConsoleApp89.pdb
+C:\Users\MEC Psicologia\source\repos\ConsoleApp89\ConsoleApp89\obj\Debug\ConsoleApp89.exe
+C:\Users\MEC Psicologia\source\repos\ConsoleApp89\ConsoleApp89\obj\Debug\ConsoleApp89.pdb
